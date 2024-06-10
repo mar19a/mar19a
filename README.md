@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mariano Amaya and I'm a fullstack, from Boston</h2>
+<h2 align="left">Hi 👋! My name is Mariano Amaya and I'm a fullstack developer, from Boston</h2>
 
 ###
 
